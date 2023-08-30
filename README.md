@@ -5,7 +5,7 @@
 - 📚 Bacharelando em Engenharia de Software no IFG.
 - 🌟 Integrante do Núcleo de Estudos aplicados a Rede de computadores e Sistemas distribuídos (NumbERS).
 <br>
-<a href="https://linktr.ee/numbersifg/"> <img src="https://github.com/MuriloMagal/PrivateFiles/blob/main/logoNumbers.png" alt="numbers" width="40" height="40" style="max-width: 100%; margin: 0 auto;"> </a> 
+<a href="https://linktr.ee/numbersifg/" align="center"> <img src="https://github.com/MuriloMagal/PrivateFiles/blob/main/logoNumbers.png" alt="numbers" width="100" height="100" style="max-width: 100%;"> </a> 
   
 - 🔭 Estou atualmente trabalhando no desenvolvimento de uma API Restful Javascript com Node.js, Typescript, TypeORM etc.
 - 🌱 Estou atualmente melhorando minha técnicas em Javascript e React.
