@@ -5,19 +5,23 @@
 - 📚 Bacharelando em Engenharia de Software no IFG.
 <br>
 <a href="https://linktr.ee/numbersifg/" align="center"> <img align="center" src="https://github.com/MuriloMagal/PrivateFiles/blob/main/logoNumbers.png" alt="numbers" width="100" height="100" style="max-width: 100%;"> </a>
-Integrante do Núcleo de Estudos aplicados a Rede de computadores e Sistemas distribuídos (NumbERS).
+Integrante do Núcleo de Estudos aplicados a Rede de computadores e Sistemas distribuídos (NumbERS) - IFG Inhumas.
 
 <br>
 <br>
 - 🔭 Estou atualmente trabalhando no desenvolvimento de uma API Restful Javascript com Node.js, Typescript, TypeORM etc. <br>
 - 🌱 Estou atualmente melhorando minha técnicas em Javascript e React.
 
-### Tecnologias que utilizo:
+### Tecnologias que utilizo / estudo:
 <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.arduino.cc/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.java.com/pt-BR/download/help/whatis_java.html" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="java" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.python.org/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://react.dev/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
+
 
 <!--
 **MuriloMagal/MuriloMagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
