@@ -11,7 +11,7 @@
   justify-content: center; 
   align-items: center">
   <a href="https://linktr.ee/numbersifg/"> <img src="https://github.com/MuriloMagal/PrivateFiles/blob/main/logoNumbers.png" alt="numbers" width=15% style="max-width: 100%;"> </a>
-  <p width=50% style="max-width: 100%"> Integrante do Núcleo de Estudos aplicados a Rede de computadores e Sistemas distribuídos <br> (NumbERS) - IFG Inhumas. </p>
+  <p width=50% style="max-width: 100%; display: inline-block;"> Integrante do Núcleo de Estudos aplicados a Rede de computadores e Sistemas distribuídos <br> (NumbERS) - IFG Inhumas. </p>
 </div>
 
 <br>
