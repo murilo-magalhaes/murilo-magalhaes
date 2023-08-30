@@ -9,9 +9,16 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-  <a href="https://linktr.ee/numbersifg/"> <img src="https://github.com/MuriloMagal/PrivateFiles/blob/main/logoNumbers.png" alt="numbers" width=10% style="max-width: 100%;"> </a>  
-  <p> Integrante do NumbERS </p>
+    <div>
+        <a href="https://linktr.ee/numbersifg/">
+            <img src="https://github.com/MuriloMagal/PrivateFiles/blob/main/logoNumbers.png" alt="numbers" width="10%" style="max-width: 100%;">
+        </a>
+    </div>
+    <div>
+        <p>Integrante do NumbERS</p>
+    </div>
 </div>
+
 
 <br>
 Núcleo de Estudos aplicados a Rede de computadores e Sistemas distribuídos - IFG Inhumas.
