@@ -15,10 +15,14 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-  <a href="https://linktr.ee/numbersifg/" style="display: inline-block;">
-    <img src="https://github.com/MuriloMagal/PrivateFiles/blob/main/logoNumbers.png" alt="numbers" width="128px">
-  </a>
-  <p style="display: inline-block; margin-left: 10px;"> Integrante do NumbERS - IFG Inhumas <br> (Núcleo de Estudos aplicados a Rede de computadores e Sistemas distribuídos).</p>
+    <div> 
+        <a href="https://linktr.ee/numbersifg/" style="display: inline-block;">
+            <img src="https://github.com/MuriloMagal/PrivateFiles/blob/main/logoNumbers.png" alt="numbers" width="128px">
+        </a>
+    </div>
+    <div> 
+        <p style="display: inline-block; margin-left: 10px;"> Integrante do NumbERS - IFG Inhumas <br> (Núcleo de Estudos aplicados a Rede de computadores e Sistemas distribuídos).</p>
+    </div>
 </div>
 
 <br>
