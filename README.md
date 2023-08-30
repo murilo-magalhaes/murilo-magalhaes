@@ -8,18 +8,12 @@
   
 <br>
 
-<style>
-  .paragrafo-largo {
-      width: 50%;
-  }
-</style>
-
 <div style="
   align-items: center;
   display: flex;
   justify-content: center;">
-  <a href="https://linktr.ee/numbersifg/"> <img src="https://github.com/MuriloMagal/PrivateFiles/blob/main/logoNumbers.png" alt="numbers" width=10% style="max-width: 100%;"> </a>
-<p class="paragrafo-largo"> Integrante do Núcleo de Estudos aplicados a Rede de computadores e Sistemas distribuídos <br> (NumbERS) - IFG Inhumas.</p>
+  <a href="https://linktr.ee/numbersifg/"> <img src="https://github.com/MuriloMagal/PrivateFiles/blob/main/logoNumbers.png" alt="numbers" width=10% style="max-width: 100%;"> </a>  
+  <p width=50%> Integrante do Núcleo de Estudos aplicados a Rede de computadores e Sistemas distribuídos <br> (NumbERS) - IFG Inhumas.</p>
 </div>
 
 <br>
