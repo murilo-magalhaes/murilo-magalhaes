@@ -1,15 +1,18 @@
 ### Oi, tudo bem? Meu nome é Murilo! 👋
 
+- 📚 Bacharelando em Engenharia de Software no IFG.
+- 🌟 Integrante do Núcleo de Estudos aplicados a Rede de computadores e Sistemas distribuídos.
+- <a href="https://linktr.ee/numbersifg/" <img src="https://github.com/NumbERS-IFG/" alt="numbers" width="40" height="40" style="max-width: 100%;"> </a>
+  
+- 🔭 Estou atualmente trabalhando no desenvolvimento de uma API Restful Javascript com Node.js, Typescript, TypeORM etc.
+- 🌱 Estou atualmente melhorando minha técnicas em Javascript e React.
 
-
-🌠 Entusiasta em programação
-
-📚 Bacharelando em Engenharia de Software no IFG.
-
-Tecnologias que uso:
+### Tecnologias que utilizo:
 <br>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.arduino.cc/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40" style="max-width: 100%;"> </a>
 
 <!--
 **MuriloMagal/MuriloMagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
