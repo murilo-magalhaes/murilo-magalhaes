@@ -7,7 +7,7 @@
 <br>
   <a href="https://linktr.ee/numbersifg/"> <img src="https://github.com/MuriloMagal/PrivateFiles/blob/main/logoNumbers.png" alt="numbers" style="width: 15%;"> </a>
                                              
-  <p style="width: 80%;"> Integrante do Núcleo de Estudos aplicados a Rede de computadores e Sistemas distribuídos (NumbERS) - IFG Inhumas.</p>
+  <p style="width: 60%;"> Integrante do Núcleo de Estudos aplicados a Rede de computadores e Sistemas distribuídos (NumbERS) - IFG Inhumas.</p>
 
 <br>
 <br>
