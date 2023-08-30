@@ -6,7 +6,7 @@
   
 <br>
 
-<div style="display: flex">
+<div style="display: flex; justify-content: center; align-items: center">
   <a href="https://linktr.ee/numbersifg/"> <img src="https://github.com/MuriloMagal/PrivateFiles/blob/main/logoNumbers.png" alt="numbers" style="width: 15%; float: left;"> </a>
   Integrante do Núcleo de Estudos aplicados a Rede de computadores e Sistemas distribuídos (NumbERS) - IFG Inhumas.
 </div>
