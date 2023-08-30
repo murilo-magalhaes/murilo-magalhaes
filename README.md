@@ -23,6 +23,7 @@ Integrante do Núcleo de Estudos aplicados a Rede de computadores e Sistemas dis
 <a href="https://react.dev/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
 
 
+
 <!--
 **MuriloMagal/MuriloMagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
