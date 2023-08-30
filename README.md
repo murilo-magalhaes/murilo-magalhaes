@@ -1,8 +1,7 @@
 ### Oi, tudo bem? Meu nome é Murilo! 👋
 
 - 📚 Bacharelando em Engenharia de Software no IFG.
-- 🌟 Integrante do Núcleo de Estudos aplicados a Rede de computadores e Sistemas distribuídos.
-- <a href="https://linktr.ee/numbersifg/"> <img src="https://avatars.githubusercontent.com/u/73557119?s=200&v=4" alt="numbers" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://linktr.ee/numbersifg/"> <img src="https://avatars.githubusercontent.com/u/73557119?s=200&v=4" alt="numbers" width="40" height="40" style="max-width: 100%;"> </a> Integrante do Núcleo de Estudos aplicados a Rede de computadores e Sistemas distribuídos.
   
 - 🔭 Estou atualmente trabalhando no desenvolvimento de uma API Restful Javascript com Node.js, Typescript, TypeORM etc.
 - 🌱 Estou atualmente melhorando minha técnicas em Javascript e React.
