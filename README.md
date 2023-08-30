@@ -2,9 +2,9 @@
 
 
 
-Entusiasta em programação
+🌠 Entusiasta em programação
 
-📚 Graduando Bacharelado em Engenharia de Software no IFG.
+📚 Bacharelando em Engenharia de Software no IFG.
 
 Tecnologias que uso:
 <br>
