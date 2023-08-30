@@ -9,7 +9,7 @@ Integrante do Núcleo de Estudos aplicados a Rede de computadores e Sistemas dis
 
 <br>
 <br>
-- 🔭 Estou atualmente trabalhando no desenvolvimento de uma API Restful Javascript com Node.js, Typescript, TypeORM etc.
+- 🔭 Estou atualmente trabalhando no desenvolvimento de uma API Restful Javascript com Node.js, Typescript, TypeORM etc. <br>
 - 🌱 Estou atualmente melhorando minha técnicas em Javascript e React.
 
 ### Tecnologias que utilizo:
