@@ -8,8 +8,7 @@
   
 <br>
 
-<div style="display: flex;
-  align-items: center;">
+<div style="display: flex; align-items: center; justify-content: center">
   <a href="https://linktr.ee/numbersifg/"> <img src="https://github.com/MuriloMagal/PrivateFiles/blob/main/logoNumbers.png" alt="numbers" width=10% style="max-width: 100%;"> </a>  
   Integrante do NumbERS 
 </div>
