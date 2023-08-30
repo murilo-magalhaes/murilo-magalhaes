@@ -10,7 +10,7 @@
 
 <div class="flex">
     <a href="https://linktr.ee/numbersifg/">
-        <img src="https://github.com/MuriloMagal/PrivateFiles/blob/main/logoNumbers.png" alt="numbers" width="256px">
+        <img src="https://github.com/MuriloMagal/PrivateFiles/blob/main/logoNumbers.png" alt="numbers" width="128px">
     </a>
     <p style="padding-left: 10px;">Integrante do NumbERS</p>
 </div>
