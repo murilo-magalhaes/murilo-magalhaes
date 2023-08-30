@@ -5,10 +5,8 @@
 - 📚 Bacharelando em Engenharia de Software no IFG.
   
 <br>
-<div style="display: flex;">
-  <a href="https://linktr.ee/numbersifg/"> <img src="https://github.com/MuriloMagal/PrivateFiles/blob/main/logoNumbers.png" alt="numbers" width="100" height="100" style="max-width: 100%;> </a>
-  <p style="float: right;"> Integrante do Núcleo de Estudos aplicados a Rede de computadores e Sistemas distribuídos (NumbERS) - IFG Inhumas.</p>
-</div>
+  <a href="https://linktr.ee/numbersifg/"> <img src="https://github.com/MuriloMagal/PrivateFiles/blob/main/logoNumbers.png" alt="numbers" style="width: 20%;> </a>
+  <p style="width: 20%;> Integrante do Núcleo de Estudos aplicados a Rede de computadores e Sistemas distribuídos (NumbERS) - IFG Inhumas.</p>
 
 <br>
 <br>
