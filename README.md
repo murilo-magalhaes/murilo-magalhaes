@@ -6,7 +6,7 @@
       </path>
     </svg></a>Oi, tudo bem? Meu nome é Murilo Magalhães!</h1>
 
-<p align="center"> Dev brasileiro focado em backend</p>
+<p align="center"> Dev brasileiro buscando o Full Stack</p>
 
 ### Um pouquinho sobre mim:
 
