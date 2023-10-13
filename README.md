@@ -31,6 +31,12 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
     alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://react.dev/" rel="nofollow"> <img
+    src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40"
+    height="40" style="max-width: 100%;"> </a>
+<a href="https://nodejs.org/en/" rel="nofollow"> <img
+    src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40"
+    height="40" style="max-width: 100%;"> </a>
 <a href="https://www.docker.com/" rel="nofollow"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
     alt="docker" width="40" height="40" style="max-width: 100%;"> </a>
@@ -46,12 +52,6 @@
 <a href="https://www.python.org/" rel="nofollow"> <img
     src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40"
     height="40" style="max-width: 100%;"> </a>
-<a href="https://react.dev/" rel="nofollow"> <img
-    src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40"
-    height="40" style="max-width: 100%;"> </a>
-
-
-
 <!--
 **MuriloMagal/MuriloMagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
