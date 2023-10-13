@@ -28,6 +28,9 @@
 
 ### Tecnologias que utilizo / estudo:
 <br>
+<a href="https://www.typescriptlang.org/" rel="nofollow"> <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
     alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
@@ -40,9 +43,6 @@
 <a href="https://www.docker.com/" rel="nofollow"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
     alt="docker" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://www.typescriptlang.org/" rel="nofollow"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.arduino.cc/" rel="nofollow"> <img
     src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" width="40"
     height="40" style="max-width: 100%;"> </a>
