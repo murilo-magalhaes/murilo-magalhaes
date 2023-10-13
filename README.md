@@ -35,7 +35,7 @@
     src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40"
     height="40" style="max-width: 100%;"> </a>
 <a href="https://nodejs.org/en/" rel="nofollow"> <img
-    src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40"
+    src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"
     height="40" style="max-width: 100%;"> </a>
 <a href="https://www.docker.com/" rel="nofollow"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
