@@ -4,13 +4,17 @@
       <path
         d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
       </path>
-    </svg></a>Oi, tudo bem? Meu nome é Murilo Magalhães!</h1>
+    </svg></a>Hey how's it going? My name is Murilo Magalhães!</h1>
 
-<p align="center"> Dev brasileiro buscando o Full Stack</p>
+<h3 align="center">
+    <img src="https://github.com/MuriloCode7/Files/blob/main/brazil-flag.png" width="30"/> 
+    Brazilian dev looking for Full Stack
+    <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b-1f3fb.gif" width="60"/>
+</h3>
 
-### Um pouquinho sobre mim:
+### A little bit about me:
 
-- 📚 Bacharelando em Engenharia de Software no IFG.
+- 📚 Bachelor's Degree in Software Engineering.
 
 <br>
 
@@ -18,15 +22,18 @@
     <a href="https://linktr.ee/numbersifg/" style="display: inline-block;">
         <img src="https://github.com/MuriloMagal/Files/blob/main/logoNumbers.png" alt="numbers" width="128px">
     </a>
-    <p style="display: inline-block; margin-left: 10px; position: relative;"> Integrante do NumbERS - IFG Inhumas <br> (Núcleo de Estudos aplicados a Rede de computadores e Sistemas distribuídos).</p>
+    <p style="display: inline-block; margin-left: 10px; position: relative;"> Member of the "NumbERS" - IFG Inhumas <br> (Center for Studies applied to Computer Networks and Distributed Systems).</p>
 </div>
 
 <br>
-- 🔭 Estou atualmente trabalhando no desenvolvimento de uma API Restful Javascript com Node.js, Typescript, TypeORM etc.
+- 🔭 Developed the complete backend of a Restful Javascript sales API with Node.js, Typescript, TypeORM etc. <br>
+Following the course of dev <a href="https://github.com/aluiziodeveloper"> Aluizio Developer</a>
 <br>
-- 🌱 Estou atualmente melhorando minha técnicas em Javascript e React.
+<br>
+- 🌱 I'm currently improving my techniques in Javascript and React.
+<br> While developing an API for scheduling. Following the course of dev <a href="https://youtube.com/playlist?list=PL_Axpn7FrXHR3nZiQPHFClLu6VByhWkzG&si=GWn9-WvgIaNYNfS9">Silvio Sampaio</a>
 
-### Tecnologias que utilizo / estudo:
+### Technologies I use/study:
 <br>
 <a href="https://www.typescriptlang.org/" rel="nofollow"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
