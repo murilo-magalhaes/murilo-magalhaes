@@ -26,7 +26,7 @@
 </div>
 
 <br>
-- 🔭 Developed the complete backend of a Restful Javascript sales API with Node.js, Typescript, TypeORM etc. <br>
+- 🔭 Developed a complete backend of a Restful Javascript sales API with Node.js, Typescript, TypeORM etc. <br>
 Following the course of dev <a href="https://github.com/aluiziodeveloper"> Aluizio Developer</a>
 <br>
 <br>
