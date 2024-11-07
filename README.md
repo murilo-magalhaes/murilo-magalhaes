@@ -31,7 +31,7 @@ Following the course of dev <a href="https://github.com/aluiziodeveloper"> Aluiz
 <br>
 <br>
 - 🔭 Developed a social media for Dogs with NextJS, Typescript, Cookies Management, SEO's Strategies etc. <br>
-Following the course of NextJS <a href="https://www.origamid.com/curso/nextjs/"> Origamid</a>.
+Following the course of NextJS from <a href="https://www.origamid.com/curso/nextjs/"> Origamid</a>.
 <br>
 <br>
 - 🌱 I'm currently improving my techniques in Javascript and React.
