@@ -8,7 +8,7 @@
 
 <h3 align="center">
     <img src="https://github.com/MuriloCode7/Files/blob/main/brazil-flag.png" width="30"/> 
-    Brazilian dev looking for Full Stack
+    Brazilian dev looking for Backend
     <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b-1f3fb.gif" width="60"/>
 </h3>
 
