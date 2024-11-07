@@ -30,6 +30,10 @@
 Following the course of dev <a href="https://github.com/aluiziodeveloper"> Aluizio Developer</a>
 <br>
 <br>
+- 🔭 Developed a social media for Dogs with NextJS, Typescript, Cookies Management, SEO's Strategies etc. <br>
+Following the course of NextJS <a href="https://www.origamid.com/curso/nextjs/"> Origamid</a>.
+<br>
+<br>
 - 🌱 I'm currently improving my techniques in Javascript and React.
 <br> While developing an API for scheduling. Following the course of dev <a href="https://youtube.com/playlist?list=PL_Axpn7FrXHR3nZiQPHFClLu6VByhWkzG&si=GWn9-WvgIaNYNfS9">Silvio Sampaio</a>
 
