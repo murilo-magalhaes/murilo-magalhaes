@@ -19,10 +19,14 @@
 <br>
 
 <div style="display: flex;">
-    <a href="https://linktr.ee/numbersifg/" style="display: inline-block;">
+    <div>
+        <a href="https://linktr.ee/numbersifg/" style="display: inline-block;">
         <img src="https://github.com/MuriloMagal/Files/blob/main/logoNumbers.png" alt="numbers" width="128px">
     </a>
-    <p style="display: inline-block; margin-left: 10px; position: relative;"> Member of the "NumbERS" - IFG Inhumas <br> (Center for Studies applied to Computer Networks and Distributed Systems).</p>
+    </div>
+    <div>
+        <p style="display: inline-block; margin-left: 10px; position: relative;"> Member of the "NumbERS" - IFG Inhumas <br>         (Center for Studies applied to Computer Networks and Distributed Systems).</p>
+    </div>
 </div>
 
 <br>
