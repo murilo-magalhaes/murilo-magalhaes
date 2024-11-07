@@ -67,6 +67,10 @@ Following the course of NextJS from <a href="https://www.origamid.com/curso/next
 <a href="https://www.python.org/" rel="nofollow"> <img
     src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40"
     height="40" style="max-width: 100%;"> </a>
+<a href="https://www.nextjs.org/" rel="nofollow"> <img
+    src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40"
+    height="40" style="max-width: 100%;"> </a>
+    
 
 ### Knownledges
 <table>
