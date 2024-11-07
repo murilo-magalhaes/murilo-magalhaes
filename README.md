@@ -63,6 +63,50 @@ Following the course of NextJS <a href="https://www.origamid.com/curso/nextjs/">
 <a href="https://www.python.org/" rel="nofollow"> <img
     src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40"
     height="40" style="max-width: 100%;"> </a>
+
+### Knownledges
+<table>
+    <tr>
+        <td>Java</td>
+        <td>Javascript</td>
+        <td>Typescript</td>
+        <td>C</td>
+        <td>C++</td>
+        <td>HTML</td>
+    </tr>
+    <tr>
+        <td>CSS</td>
+        <td>ReactJS</td>
+        <td>NextJS</td>
+        <td>SOLID</td>
+        <td>API Restful</td>
+        <td>NF-e</td>
+    </tr>
+    <tr>
+        <td>NFC-e</td>
+        <td>NFS-e</td>
+        <td>ERP</td>
+        <td>CRM</td>
+        <td>SQL</td>
+        <td>NoSQL</td>
+    </tr>
+    <tr>
+        <td>PostgreSQL</td>
+        <td>Insomnia</td>
+        <td>VS Code</td>
+        <td>Git</td>
+        <td>Github</td>
+        <td>DBeaver</td>
+    </tr>
+    <tr>
+        <td>MySQL</td>
+        <td>MySQL Workbench</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 <!--
 **MuriloMagal/MuriloMagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
