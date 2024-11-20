@@ -42,13 +42,7 @@ Following the course of NextJS from <a href="https://www.origamid.com/curso/next
 <br> While developing an API for scheduling. Following the course of dev <a href="https://youtube.com/playlist?list=PL_Axpn7FrXHR3nZiQPHFClLu6VByhWkzG&si=GWn9-WvgIaNYNfS9">Silvio Sampaio</a>
 
 ### Technologies I use/study:
-<br>
-<a href="https://www.typescriptlang.org/" rel="nofollow"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
+<br>  
 <a href="https://react.dev/" rel="nofollow"> <img
     src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40"
     height="40" style="max-width: 100%;"> </a>
@@ -60,9 +54,6 @@ Following the course of NextJS from <a href="https://www.origamid.com/curso/next
     alt="docker" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.arduino.cc/" rel="nofollow"> <img
     src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" width="40"
-    height="40" style="max-width: 100%;"> </a>
-<a href="https://www.java.com/pt-BR/download/help/whatis_java.html" rel="nofollow"> <img
-    src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="java" width="40"
     height="40" style="max-width: 100%;"> </a>
 <a href="https://www.python.org/" rel="nofollow"> <img
     src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40"
@@ -76,15 +67,27 @@ Following the course of NextJS from <a href="https://www.origamid.com/curso/next
 <table>
     <tr>
         <td>
+            Java
             <a href="https://www.java.com/pt-BR/download/help/whatis_java.html" rel="nofollow">
-                Java
-                <img
+                                <img
     src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="java" width="40"
     height="40" style="max-width: 100%;"> </a>
         </td>
-        <td>Javascript</td>
-        <td>Typescript</td>
-        <td>C</td>
+        <td>Javascript
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
+        </td>
+        <td>Typescript
+        <a href="https://www.typescriptlang.org/" rel="nofollow"> <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
+        </td>
+        <td>C
+        <a href="https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170/" rel="nofollow"> <img
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg" alt="c" width="40"
+    height="40" style="max-width: 100%;"> </a>
+        </td>
         <td>C++</td>
         <td>HTML</td>
     </tr>
