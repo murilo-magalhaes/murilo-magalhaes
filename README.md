@@ -75,7 +75,13 @@ Following the course of NextJS from <a href="https://www.origamid.com/curso/next
 ### Knownledges
 <table>
     <tr>
-        <td>Java</td>
+        <td>
+            <a href="https://www.java.com/pt-BR/download/help/whatis_java.html" rel="nofollow">
+                Java
+                <img
+    src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="java" width="40"
+    height="40" style="max-width: 100%;"> </a>
+        </td>
         <td>Javascript</td>
         <td>Typescript</td>
         <td>C</td>
@@ -109,7 +115,7 @@ Following the course of NextJS from <a href="https://www.origamid.com/curso/next
     <tr>
         <td>MySQL</td>
         <td>MySQL Workbench</td>
-        <td></td>
+        <td>Redis</td>
         <td></td>
         <td></td>
         <td></td>
