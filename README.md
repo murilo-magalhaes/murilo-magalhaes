@@ -88,11 +88,23 @@ Following the course of NextJS from <a href="https://www.origamid.com/curso/next
     src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg" alt="c" width="40"
     height="40" style="max-width: 100%;"> </a>
         </td>
-        <td>C++</td>
-        <td>HTML</td>
+        <td>C++
+        <a href="https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170/" rel="nofollow"> <img
+src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40"
+    height="40" style="max-width: 100%;"> </a>
+        </td>
+        <td>HTML
+         <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" rel="nofollow"> <img
+src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" alt="html5" width="40"
+    height="40" style="max-width: 100%;"> </a>
+        </td>
     </tr>
     <tr>
-        <td>CSS</td>
+        <td>CSS
+        <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/" rel="nofollow"> <img
+src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" alt="css3" width="40"
+    height="40" style="max-width: 100%;"> </a>
+        </td>
         <td>ReactJS</td>
         <td>NextJS</td>
         <td>SOLID</td>
