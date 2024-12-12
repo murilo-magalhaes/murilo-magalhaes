@@ -128,20 +128,20 @@ Following the course of NextJS from <a target="_blank" href="https://www.origami
         <td>NoSQL</td>
     </tr>
     <tr>
-        <td>PostgreSQL</td>
-        <td>Insomnia</td>
-        <td>VS Code</td>
         <td>Git</td>
         <td>Github</td>
-        <td>DBeaver</td>
+        <td>VS Code</td>
+        <td>Insomnia</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <td>MySQL</td>
         <td>MySQL Workbench</td>
         <td>Redis</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>MongoDB</td>
+        <td>PostgreSQL</td>
+        <td>DBeaver</td>
     </tr>
 </table>
 <!--
