@@ -7,6 +7,7 @@
         </svg></a>Hey how's it going? My name is Murilo Magalhães!</h1>
 
 <h3 align="center">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2sybHVnbGo0aG1zYzlsbHMxeHpqazJqb294YmluMmZ3MzNsZHU5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="100"/>
     <img src="https://github.com/MuriloCode7/Files/blob/main/brazil-flag.png" width="30" />
     Brazilian dev looking for Backend
     <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b-1f3fb.gif" width="60" />
