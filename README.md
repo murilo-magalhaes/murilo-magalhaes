@@ -88,10 +88,19 @@
 
 ---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilo-magalhaes&show_icons=true&theme=tokyonight"/>
+<table>
+    <tr>
+        <td>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilo-magalhaes&show_icons=true&theme=tokyonight"/>    
+        </td>
+        <td>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-magalhaes&layout=compact&theme=tokyonight"/>
-</div>
+        </td>
+        <td>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murilo-magalhaes&theme=tokyonight" alt="GitHub Streak"/>
+        </td>
+    </tr>
+</table>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MuriloMagal&color=blue)
 
