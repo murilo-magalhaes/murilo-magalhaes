@@ -28,7 +28,7 @@
 <table>
   <tr>
     <td>
-      <a target="_blank" href="https://bitybank.com/">
+      <a target="_blank" href="https://bitybank.com.br/">
         <img src="https://github.com/MuriloMagal/Files/blob/main/logoBityBank.png" alt="bitybank" width="128px">
       </a>
     </td>
