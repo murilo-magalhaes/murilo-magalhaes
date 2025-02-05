@@ -1,4 +1,6 @@
-### Hi there! 👋 My name is **<span style='color:blue'>Murilo Magalhães</span>**
+<div align="center">
+### Hi there! 👋 My name is **Murilo Magalhães**
+</div>
 
 <div align="center">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2sybHVnbGo0aG1zYzlsbHMxeHpqazJqb294YmluMmZ3MzNsZHU5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="300"/>
