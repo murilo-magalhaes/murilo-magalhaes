@@ -28,6 +28,18 @@
 <table>
   <tr>
     <td>
+      <a target="_blank" href="https://bitybank.com/">
+        <img src="https://github.com/MuriloMagal/Files/blob/main/logoBityBank.png" alt="bitybank" width="128px">
+      </a>
+    </td>
+    <td>
+      <p> Backend & DevOps Developer at BityBank<br> Responsible for developing and maintaining trading bots, APIs, and infrastructure.</p>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
       <a target="_blank" href="https://linktr.ee/numbersifg/">
         <img src="https://github.com/MuriloMagal/Files/blob/main/logoNumbers.png" alt="numbers" width="128px">
       </a>
