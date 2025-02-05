@@ -96,9 +96,6 @@
         <td>
           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-magalhaes&layout=compact&theme=tokyonight"/>
         </td>
-        <td>
-          <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=murilo-magalhaes&theme=tokyonight" alt="GitHub Streak"/>
-        </td>
     </tr>
 </table>
 
