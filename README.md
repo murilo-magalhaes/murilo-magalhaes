@@ -88,4 +88,8 @@
 
 ---
 
+![Murilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=murilo-magalhaes&show_icons=true&theme=tokyonight)
+
+---
+
 ### 🎯 **Let's build something great together!** 🚀
