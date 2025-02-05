@@ -16,7 +16,7 @@
 
 <br>
 
-<div style="display: flex;">
+<div display="flex">
     <div>
         <a target="_blank" href="https://linktr.ee/numbersifg/" style="display: inline-block;">
             <img src="https://github.com/MuriloMagal/Files/blob/main/logoNumbers.png" alt="numbers" width="128px">
