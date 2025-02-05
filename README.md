@@ -36,8 +36,8 @@
             <br> (Center for Studies applied to Computer Networks and Distributed Systems).</p>
     </div>
 </div>
----
 
+---
 ### 💡 **Technologies I Use & Study**
 
 #### **Backend & DevOps**
