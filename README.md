@@ -5,9 +5,11 @@
                 d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
             </path>
         </svg></a>Hey how's it going? My name is Murilo Magalhães!</h1>
+<div>
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2sybHVnbGo0aG1zYzlsbHMxeHpqazJqb294YmluMmZ3MzNsZHU5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="300"/>
+</div>
 
 <h3 align="center">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2sybHVnbGo0aG1zYzlsbHMxeHpqazJqb294YmluMmZ3MzNsZHU5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="100"/>
     <img src="https://github.com/MuriloCode7/Files/blob/main/brazil-flag.png" width="30" />
     Brazilian dev looking for Backend
     <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b-1f3fb.gif" width="60" />
