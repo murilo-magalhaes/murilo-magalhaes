@@ -25,31 +25,30 @@
   - *Following the course by* [Silvio Sampaio](https://youtube.com/playlist?list=PL_Axpn7FrXHR3nZiQPHFClLu6VByhWkzG&si=GWn9-WvgIaNYNfS9)
 
 ---
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="15%">
       <a target="_blank" href="https://bitybank.com.br/">
-        <img src="https://github.com/MuriloMagal/Files/blob/main/logoBityBank.png" alt="bitybank" width="128px">
+        <img src="https://github.com/MuriloMagal/Files/blob/main/logoBityBank.png" alt="bitybank" width="100%">
       </a>
     </td>
-    <td>
+    <td width="85%">
       <p> Backend & DevOps Developer at BityBank<br> Responsible for developing and maintaining trading bots, APIs, and infrastructure.</p>
     </td>
   </tr>
 </table>
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="15%">
       <a target="_blank" href="https://linktr.ee/numbersifg/">
-        <img src="https://github.com/MuriloMagal/Files/blob/main/logoNumbers.png" alt="numbers" width="128px">
+        <img src="https://github.com/MuriloMagal/Files/blob/main/logoNumbers.png" alt="numbers" width="100%">
       </a>
     </td>
-    <td>
+    <td width="85%">
       <p> Member of the "NumbERS" - IFG Inhumas<br> (Center for Studies applied to Computer Networks and Distributed Systems).</p>
     </td>
   </tr>
 </table>
-
 
 ---
 ### 💡 **Technologies I Use & Study**
