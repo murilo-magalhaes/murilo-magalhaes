@@ -9,15 +9,10 @@
         <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2sybHVnbGo0aG1zYzlsbHMxeHpqazJqb294YmluMmZ3MzNsZHU5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="300"/>
 </div>
 
-<h3 align="center">
-    <img src="https://github.com/MuriloCode7/Files/blob/main/brazil-flag.png" width="30" />
-    Brazilian dev looking for Backend
-    <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b-1f3fb.gif" width="60" />
-</h3>
-
 ### A little bit about me:
 
 - 📚 Bachelor's Degree in Software Engineering.
+- 💼 Working as Full Stack Developer to BityBank.
 
 <br>
 
