@@ -25,6 +25,27 @@
   - *Following the course by* [Silvio Sampaio](https://youtube.com/playlist?list=PL_Axpn7FrXHR3nZiQPHFClLu6VByhWkzG&si=GWn9-WvgIaNYNfS9)
 
 ---
+<style>
+  @media (max-width: 600px) {
+    table {
+      display: block;
+      width: 100%;
+    }
+    tr {
+      display: block;
+      width: 100%;
+    }
+    td {
+      display: block;
+      width: 100%;
+      text-align: center;
+    }
+    img {
+      width: 100%;
+    }
+  }
+</style>
+
 <table width="100%">
   <tr>
     <td width="15%">
@@ -37,6 +58,7 @@
     </td>
   </tr>
 </table>
+
 <table width="100%">
   <tr>
     <td width="15%">
