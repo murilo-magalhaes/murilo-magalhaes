@@ -88,16 +88,11 @@
 
 ---
 
-<table>
-    <tr>
-        <td>
+<div align="center" width="100%">
           <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilo-magalhaes&show_icons=true&theme=tokyonight"/>    
-        </td>
-        <td>
           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-magalhaes&layout=compact&theme=tokyonight"/>
-        </td>
-    </tr>
-</table>
+</div>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MuriloMagal&color=blue)
 
