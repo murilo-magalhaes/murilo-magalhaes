@@ -25,16 +25,19 @@
   - *Following the course by* [Silvio Sampaio](https://youtube.com/playlist?list=PL_Axpn7FrXHR3nZiQPHFClLu6VByhWkzG&si=GWn9-WvgIaNYNfS9)
 
 ---
-<div style="display: flex; align-items: center;">
-    <div>
-        <a target="_blank" href="https://linktr.ee/numbersifg/" style="display: inline-block;">
-            <img src="https://github.com/MuriloMagal/Files/blob/main/logoNumbers.png" alt="numbers" width="128px">
-        </a>
-    </div>
-    <div style="margin-left: 10px;">
-        <p> Member of the "NumbERS" - IFG Inhumas<br> (Center for Studies applied to Computer Networks and Distributed Systems).</p>
-    </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <a target="_blank" href="https://linktr.ee/numbersifg/">
+        <img src="https://github.com/MuriloMagal/Files/blob/main/logoNumbers.png" alt="numbers" width="128px">
+      </a>
+    </td>
+    <td>
+      <p> Member of the "NumbERS" - IFG Inhumas<br> (Center for Studies applied to Computer Networks and Distributed Systems).</p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 ### 💡 **Technologies I Use & Study**
