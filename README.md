@@ -25,15 +25,14 @@
   - *Following the course by* [Silvio Sampaio](https://youtube.com/playlist?list=PL_Axpn7FrXHR3nZiQPHFClLu6VByhWkzG&si=GWn9-WvgIaNYNfS9)
 
 ---
-<div>
+<div style="display: flex; align-items: center;">
     <div>
         <a target="_blank" href="https://linktr.ee/numbersifg/" style="display: inline-block;">
             <img src="https://github.com/MuriloMagal/Files/blob/main/logoNumbers.png" alt="numbers" width="128px">
         </a>
     </div>
-    <div>
-        <p style="display: inline-block; margin-left: 10px; position: relative;"> Member of the "NumbERS" - IFG Inhumas
-            <br> (Center for Studies applied to Computer Networks and Distributed Systems).</p>
+    <div style="margin-left: 10px;">
+        <p> Member of the "NumbERS" - IFG Inhumas<br> (Center for Studies applied to Computer Networks and Distributed Systems).</p>
     </div>
 </div>
 
