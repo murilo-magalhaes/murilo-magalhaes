@@ -89,6 +89,7 @@
 ---
 
 ![Murilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=murilo-magalhaes&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-magalhaes&layout=compact&theme=tokyonight)
 
 ---
 
